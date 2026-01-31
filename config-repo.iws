@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdac23de-6864-40d1-a1b5-6134c4f45381" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/catalog-service-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/catalog-service-prod.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service-prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/catalog-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-repo.iws" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +42,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "feature/20260131__1910",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/moseslee/Documents/CloudNativeInAction/config-repo",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cdac23de-6864-40d1-a1b5-6134c4f45381" name="Changes" comment="" />
