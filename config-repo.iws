@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdac23de-6864-40d1-a1b5-6134c4f45381" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/catalog-service.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/catalog-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-repo.iws" beforeDir="false" afterPath="$PROJECT_DIR$/config-repo.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +16,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "moses-ch-lee"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;moses-ch-lee&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/moses-ch-lee/config-repo.git",
-    "accountId": "1e087aa3-1a80-4bf1-8115-afd6a7b887da"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/moses-ch-lee/config-repo.git&quot;,
+    &quot;accountId&quot;: &quot;1e087aa3-1a80-4bf1-8115-afd6a7b887da&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="391pvaLxNx696RNM11wCjZC3xMt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/20260131__1910",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/moseslee/Documents/CloudNativeInAction/config-repo",
     "settings.editor.selected.configurable": "preferences.pluginManager"
